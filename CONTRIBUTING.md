@@ -1,1 +1,1 @@
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+All contributions, <b>bug</b> reports, <b>bug</b> fixes, documentation improvements, enhancements, <b>and </b>ideas are welcome.
